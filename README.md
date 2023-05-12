@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan213&label=Profile%20views&color=0e75b6&style=flat" alt="muskan213" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gs-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="gs-chauhan" /> </p>
 
 - 🔭 I’m currently working on **enhancing my skills**
 
