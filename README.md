@@ -1,5 +1,5 @@
 
-[![MasterHead](https://files.realpython.com/media/Linear-Algebra-in-Python-Matrix-Inverses-and-Least-Squares_Watermarked.cb9987c11b27.jpg)]
+![MasterHead](https://files.realpython.com/media/Linear-Algebra-in-Python-Matrix-Inverses-and-Least-Squares_Watermarked.cb9987c11b27.jpg)
 <h1 align="center">Hi 👋, I'm Gautam Singh Chauhan</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
